@@ -4,3 +4,5 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/TaniaFerman/hello-world.git
 git push -u origin master
+
+This is the first commit 
